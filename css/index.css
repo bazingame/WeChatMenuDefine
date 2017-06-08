@@ -1,0 +1,56 @@
+* {
+    margin: 0 auto;
+}
+html,body {
+    width: 100%;
+    height: 100%;
+}
+.container{
+    width:100%;
+    height: 100%;
+}
+.center{
+    margin-top: 50px;
+    width: 80%;
+    min-height: 500px;
+    /*box-shadow: 10px 10px 10px  gray;*/
+}
+.main-form{
+    width: 80%;
+    height: 80%;
+    /*border:solid 1px gray;*/
+}
+table{
+    border: 1px;
+    float: left;
+    text-align: left;
+}
+tbody{
+    float: left;
+}
+
+.label-success{
+    font-size:125%;
+}
+
+table,td,th
+{
+    border:1px solid #F5F5F5;
+    text-align: center;
+}
+.tr{
+    width: 100%;
+    height:100%;
+}
+tr:nth-child(3){
+width: 200px;
+}
+td{
+    width: 150px;
+}
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
