@@ -19,6 +19,6 @@
 * 现提供本人测试号使用，以便进行测试
     *  AppID：wxc65c1d9ffeb40230
     *  AppSecret：2cd6c98e2803d76dc94c767eb1074e4e
-  
 * 测试号二维码：
-![image](http://139.199.187.225/defineItem/test.jpg)
+
+    *  ![image](http://139.199.187.225/defineItem/test.jpg)
