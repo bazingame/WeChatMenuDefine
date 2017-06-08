@@ -17,6 +17,7 @@
     *  6.当按钮类型为弹出以外其他类型时，url或key值均可填写在"值"内，本工具会自动根据类型转换
 
 * 现提供本人测试号使用，以便进行测试
-  *  AppID：wxc65c1d9ffeb40230
-  *  AppSecret:2cd6c98e2803d76dc94c767eb1074e4e
-
+  *  AppID：wxc65c1d9ffeb40230
+  *  AppSecret：2cd6c98e2803d76dc94c767eb1074e4e
+* 测试号二维码：
+![image](http://139.199.187.225/defineItem/test.jpg)
